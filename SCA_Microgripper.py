@@ -5,7 +5,7 @@ Created on Mon Sep 21 12:45:52 2020
 @author: Dell
 """
 
-import numpy as np
+import numpy as np # Importing numpy library
 import random
 import math
 # import matplotlib.pyplot as plt
@@ -238,7 +238,7 @@ def update_parameters(y):
     
     ###########################################################################################################################################################
 
-    import numpy as np # Importing numpy library
+    
     #name = input("Enter file name: ") # Inputting a file name
     #if len(name) < 1 : print("Enter a valid file name")
     handle = open("microgripper.msh2") # open file for reading text
