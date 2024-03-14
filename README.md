@@ -6,6 +6,9 @@ Download both Gmsh and the SDK with pip: 'pip install --upgrade gmsh'
 Woo hoo!!!!
 
 Now you are all set to run this code. 😅
+
 project_micro gives the values of displacement and generated temperature for one parameter input (Length of the actuator) through calling_proj
-project_micro gives the values of displacement and generated temperature for two parameters input (Length and width of the actuator) through calling_proj
+
+project_micro2 gives the values of displacement and generated temperature for two parameters input (Length and width of the actuator) through calling_proj
+
 SCA_Microgripper gives the optimized values of the Microgripper parameters
